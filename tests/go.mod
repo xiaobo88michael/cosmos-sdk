@@ -3,13 +3,13 @@ module github.com/cosmos/cosmos-sdk/tests
 go 1.19
 
 require (
-	cosmossdk.io/api v0.2.6
+	cosmossdk.io/api v0.3.0
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	cosmossdk.io/math v1.0.0-beta.4
 	cosmossdk.io/simapp v0.0.0-00010101000000-000000000000
 	github.com/cosmos/cosmos-db v0.0.0-20221226095112-f3c38ecb5e32
 	github.com/cosmos/cosmos-sdk v0.47.0-alpha2.0.20221219231612-5ed4075ba219
-	github.com/cosmos/gogoproto v1.4.3
+	github.com/cosmos/gogoproto v1.4.4
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.3.0
 	github.com/spf13/cobra v1.6.1
@@ -167,8 +167,8 @@ require (
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.103.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20221227171554-f9683d7f8bef // indirect
-	google.golang.org/grpc v1.51.0 // indirect
+	google.golang.org/genproto v0.0.0-20230125152338-dcaf20b6aeaa // indirect
+	google.golang.org/grpc v1.52.3 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
