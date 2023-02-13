@@ -3,7 +3,7 @@ module cosmossdk.io/tools/rosetta
 go 1.19
 
 require (
-	cosmossdk.io/math v1.0.0-beta.4
+	cosmossdk.io/math v1.0.0-beta.6
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2
 	github.com/coinbase/rosetta-sdk-go/types v1.0.0
 	github.com/cosmos/cosmos-sdk v0.46.0-beta2.0.20221228204200-1bb062984632
@@ -75,7 +75,7 @@ require (
 	github.com/huandu/skiplist v1.2.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/klauspost/compress v1.15.12 // indirect
-	github.com/kr/pretty v0.3.0 // indirect
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/libp2p/go-buffer-pool v0.1.0 // indirect
 	github.com/linxGnu/grocksdb v1.7.10 // indirect
@@ -111,7 +111,7 @@ require (
 	github.com/zondax/hid v0.9.1 // indirect
 	github.com/zondax/ledger-go v0.14.1 // indirect
 	golang.org/x/crypto v0.5.0 // indirect
-	golang.org/x/exp v0.0.0-20221019170559-20944726eadf // indirect
+	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
 	golang.org/x/net v0.5.0 // indirect
 	golang.org/x/sys v0.4.0 // indirect
 	golang.org/x/term v0.4.0 // indirect
