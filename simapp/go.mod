@@ -9,13 +9,13 @@ require (
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	cosmossdk.io/math v1.0.0-beta.4
 	cosmossdk.io/tools/rosetta v0.2.0
-	github.com/cosmos/cosmos-db v0.0.0-20221226095112-f3c38ecb5e32
+	github.com/cosmos/cosmos-db v1.0.0
 	github.com/cosmos/cosmos-sdk v0.47.0-alpha2.0.20221219231612-5ed4075ba219
 	github.com/golang/mock v1.6.0
-	github.com/spf13/cast v1.5.0
+	github.com/spf13/cast v1.5.1
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.14.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.3
 	github.com/tendermint/tendermint v0.37.0-rc2
 	google.golang.org/protobuf v1.28.1
 )
@@ -112,11 +112,11 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/jmhodges/levigo v1.0.0 // indirect
 	github.com/klauspost/compress v1.15.12 // indirect
-	github.com/kr/pretty v0.3.0 // indirect
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/lib/pq v1.10.7 // indirect
 	github.com/libp2p/go-buffer-pool v0.1.0 // indirect
-	github.com/linxGnu/grocksdb v1.7.10 // indirect
+	github.com/linxGnu/grocksdb v1.7.15 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
