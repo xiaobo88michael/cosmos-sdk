@@ -6,7 +6,7 @@ require (
 	github.com/cosmos/cosmos-sdk v0.46.0-beta2.0.20221228204200-1bb062984632
 	github.com/hashicorp/go-getter v1.6.2
 	github.com/otiai10/copy v1.9.0
-	github.com/rs/zerolog v1.28.0
+	github.com/rs/zerolog v1.31.0
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.1
 )
@@ -95,7 +95,7 @@ require (
 	github.com/linxGnu/grocksdb v1.7.10 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
-	github.com/mattn/go-isatty v0.0.17 // indirect
+	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mimoo/StrobeGo v0.0.0-20210601165009-122bf33a46e0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
@@ -135,7 +135,7 @@ require (
 	golang.org/x/exp v0.0.0-20221019170559-20944726eadf // indirect
 	golang.org/x/net v0.5.0 // indirect
 	golang.org/x/oauth2 v0.3.0 // indirect
-	golang.org/x/sys v0.4.0 // indirect
+	golang.org/x/sys v0.12.0 // indirect
 	golang.org/x/term v0.4.0 // indirect
 	golang.org/x/text v0.6.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
